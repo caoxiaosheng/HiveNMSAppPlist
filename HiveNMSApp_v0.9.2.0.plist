@@ -11,7 +11,23 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://116.236.144.2:17321/Upgrade/DownUpgradeFile?fileName=蜂巢手机App_v0.9.2.0.ipa</string>
+            <string>http://116.236.144.2:17321/Upgrade/DownUpgradeFile?fileName=HiveNMSApp_v0.9.2.0.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://img5.imgtn.bdimg.com/it/u=3321223963,2649534926&fm=26&gp=0.jpg</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <false/>
+            <key>url</key>
+            <string>http://img5.imgtn.bdimg.com/it/u=3321223963,2649534926&fm=26&gp=0.jpg</string>
           </dict>
         </array>
         <key>metadata</key>
