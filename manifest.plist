@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.100.1.151:8081/SolarWallet.ipa</string>
+					<string>http://116.236.144.2:17321/Upgrade/DownUpgradeFile?fileName=HiveNMSApp_v0.9.2.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>com.Teraband.HiveNMSTest</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>HiveNMSTest</string>
 			</dict>
 		</dict>
 	</array>
