@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://116.236.144.2:17321/Upgrade/DownUpgradeFile?fileName=HiveNMSApp_v0.9.2.0.ipa</string>
+            <string>http://172.100.1.151:8081/SolarWallet.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
